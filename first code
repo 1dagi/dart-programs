@@ -1,0 +1,9 @@
+void main()
+  {
+  double age = 34.4;
+    print("welcome to my channel");
+  bool shebu = false;
+  print(4*3);
+    print (age);
+  print(shebu);
+    
